@@ -1,0 +1,37 @@
+[
+    {
+        "number": 1,
+        "answer_text": "Nil",
+        "correct_option": "A",
+        "your_option": "A",
+        "result": true
+    },
+    {
+        "number": 2,
+        "answer_text": "Laqa",
+        "correct_option": "A",
+        "your_option": "C",
+        "result": false
+    },
+    {
+        "number": 3,
+        "answer_text": "Toshkent",
+        "correct_option": "C",
+        "your_option": "C",
+        "result": true
+    },
+    {
+        "number": 4,
+        "answer_text": "9",
+        "correct_option": "C",
+        "your_option": "A",
+        "result": false
+    },
+    {
+        "number": 5,
+        "answer_text": "Telegram",
+        "correct_option": "B",
+        "your_option": "C",
+        "result": false
+    }
+]

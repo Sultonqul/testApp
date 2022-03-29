@@ -1,0 +1,52 @@
+[
+    {
+        "Question_text": "Eng uzun daryo qaysi?",
+        "Question_v": [
+            {
+                "A": "Nill",
+                "B": "Amazon",
+                "C": "Sirdaryo"
+            }
+        ]
+    },
+    {
+        "Question_text": "Eng uzun baliq qaysi?",
+        "Question_v": [
+            {
+                "A": "Laqa",
+                "B": "Sazan",
+                "C": "Itbaliq"
+            }
+        ]
+    },
+    {
+        "Question_text": "O'zbekiston poytaxti?",
+        "Question_v": [
+            {
+                "A": "Buxoro",
+                "B": "Sirdaryo",
+                "C": "Toshkent"
+            }
+        ]
+    },
+    {
+        "Question_text": "matematik ifodani hisoblang a=5, b=4, x=a+b",
+        "Question_v": [
+            {
+                "A": "5",
+                "B": "8",
+                "C": "9"
+            }
+        ]
+    },
+    {
+        "Question_text": "Bu qaysi hona?",
+        "Question_v": [
+            {
+                "A": "Adobe'",
+                "B": "Telegram",
+                "C": "Youtube"
+            }
+        ]
+    }
+]
